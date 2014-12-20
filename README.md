@@ -19,3 +19,9 @@ For more information see http://digitalhacksblog.blogspot.com/2014/10/rfduino-bl
 
 For more information see http://digitalhacksblog.blogspot.com/2014/10/rfduino-bled112-ds18b20-temperature-demo.html
 
+##RFduino Bluetooth Low Energy Bicycle Speed Sensor##
+
+For more information see http://digitalhacksblog.blogspot.com/2014/12/rfduino-bluetooth-low-energy-bicycle.html
+
+Includes both RFduino sketch and an Android App
+
