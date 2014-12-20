@@ -1,0 +1,23 @@
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Settings">
+
+        <EditTextPreference
+            android:key="wheelcircumference_setting"
+            android:title="Wheel Circumference"
+            android:summary="Your wheel circumference in mm."
+            android:dialogTitle="Wheel Circumference in mm"
+            android:inputType="numberDecimal"/>
+
+        <EditTextPreference
+            android:key="countDownTimer"
+            android:title="Count Down Timer"
+            android:summary="Count down timer in secs."
+            android:dialogTitle="Count down timer in secs."
+            android:inputType="numberDecimal"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
